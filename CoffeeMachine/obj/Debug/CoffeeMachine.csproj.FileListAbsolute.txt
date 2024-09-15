@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\Users\Andrey\source\repos\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Users\Andrey\source\repos\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Users\Andrey\source\repos\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\Andrey\source\repos\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
